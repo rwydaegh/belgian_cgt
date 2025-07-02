@@ -1,6 +1,6 @@
-# Belgian Capital Gains Tax (CGT) - Model Implementation
+# Belgian Capital Gains Tax (CGT) - A Python Model
 
-This document provides a technical summary of the rules and calculations for a proposed Belgian Capital Gains Tax (CGT), as implemented in the `belgian_cgt.py` script.
+This repository contains a Python script (`belgian_cgt.py`) that models a proposed Belgian Capital Gains Tax (CGT). This document serves as a README, explaining the rules and calculations implemented in the model.
 
 ## 1. Core Tax Principles
 
